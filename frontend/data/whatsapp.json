@@ -1,0 +1,10 @@
+{
+  "requests": [
+    {
+      "phone": "918073211571",
+      "status": "pending",
+      "reportText": "VITALIS AI — Health triage & vitals summary (demo). Please review with a licensed clinician. Not a diagnosis.\n\n# VITALIS — AI Health & Triage Report\n\n**Generated (UTC):** 2026-05-15T07:19:36.289Z\n\n> Educational / demo output. Not a medical device record. Not for legal clinical use without review.\n\n## Patient context (self-reported)\n- Age band: adult\n- Chronic conditions: high fever\n- Allergies: food allergy\n- Medications: —\n- Preferred language: en\n\n## Latest AI triage summary\n- **Care level:** clinic_visit\n- **Risk score:** 58/100\n- **Severity:** moderate\n- **Emergency flag:** false\n- **Recommendation:** Clinic or primary care — schedule evaluation\n- **NLP summary:** Tokens: having, high, fever, since, days, food\n- **Symptom tokens:** having, high, fever, since, days, food, allergies\n- **Red flags:** Allergies on file\n\n### Clinical narrative\nTriage (offline engine): Your symptoms may warrant a clinician visit soon. Clinic or primary care — schedule evaluation. Bring a list of medications and when symptoms started.\n\n### Follow-up questions\nCan you share onset timing, severity 1–10, and any chronic conditions or medications?\n\n### Accessibility / rural deployment note\nDesigned for low-bandwidth and rural use: this offline pass runs entirely in your browser when the cloud triage link is down—connect when possible for fuller NLP analysis.\n\n## Biometric scan archive (device-local)\n_No archived scans in this browser._\n\n---\n*End of report — VITALIS AI Triage Assistant*\n",
+      "updatedAt": "2026-05-15T07:20:27.715Z"
+    }
+  ]
+}
